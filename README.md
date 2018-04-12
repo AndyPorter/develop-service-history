@@ -1,11 +1,16 @@
-Find property information service on GOV.UK
+I want to develop property or land - Alpha
 ===========================================
 
-Browse screenshots of the Find property information service on GOV.UK, organised by time and user scenario.
+Browse design drawings and thoughts for the 'I want to develop property and land' Alpha.
 
-[http://landregistry.github.io/fpi-service-screens/](http://landregistry.github.io/fpi-service-screens/)
+## Intention
 
-You can view different sets of screenshots for each moment in time, zoom in and out of them or step through them in order.
+To show drawings a screenshots of design ideas.  Thought, concepts, props and protoypes for conversation and learning from users.  
+
+Include notes of purpose, who seen, what learnt, what changed.
+
+[http://landregistry.github.io/new-build-design-thoughts/](http://landregistry.github.io/new-build-design-thoughts/)
+
 
 
 ## Running this app locally
@@ -48,7 +53,8 @@ This tool is based on (and code cloned from) GDS Exemplar screens repo.
 
 ### Code History
 
-* https://github.com/AndyPorter/exemplar-screens (code cloned from)
+* https://github.com/LandRegistry/fpi-service-screens (code cloned from)
+* https://github.com/AndyPorter/exemplar-screens
 * https://github.com/claragt/exemplar-screens
 * https://github.com/alphagov/exemplar-screens
 
