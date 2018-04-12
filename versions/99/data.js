@@ -1,7 +1,7 @@
 var data = {
   "version": "April 12, 2018",
   "last-updated": "12 April 2018",
-  "introduction": "Transparency - publoish everything we know about a development.  An estate (a development) becomes may plots (properties).  An estate is developed and plots sold until no plots are left, then the remainder is 'disposed of' and the development no longer exists.  What does this stuff look like, on Gov.uk"
+  "introduction": "Transparency - publish everything we know about a development.  An estate (a development) becomes may plots (properties).  An estate is developed and plots sold until no plots are left, then the remainder is disposed of and the development no longer exists.  What does this stuff look like, on Gov.uk"
   "change-summary" : [
     "Added in advance: Welsh summary (due to be deployed in Feb - card:US04) (Other pages)",
     "Remember to add: new sorry server once work complete (Feb) - (Other pages)"
