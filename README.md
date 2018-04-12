@@ -5,11 +5,11 @@ Browse design drawings and thoughts for the 'I want to develop property and land
 
 ## Intention
 
-To show drawings a screenshots of design ideas.  Thought, concepts, props and protoypes for conversation and learning from users.  
+To show drawings and screenshots of design ideas.  Thought, concepts, props and protoypes for conversation and learning from users.  
 
 Include notes of purpose, who seen, what learnt, what changed.
 
-[http://landregistry.github.io/new-build-design-thoughts/](http://landregistry.github.io/new-build-design-thoughts/)
+[https://andyporter.github.io/new-build-design-thoughts/](https://andyporter.github.io/new-build-design-thoughts/)
 
 
 
