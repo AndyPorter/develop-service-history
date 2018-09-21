@@ -1,15 +1,15 @@
-I want to develop property or land - Alpha
-===========================================
+I want to develop property or land
+==================================
 
-Browse design drawings and thoughts for the 'I want to develop property and land' Alpha.
+Discovery, Alpha 1 & 2, Private Beta - service designs for the 'I want to develop property and land'.
 
 ## Intention
 
-To show drawings and screenshots of design ideas.  Thought, concepts, props and protoypes for conversation and learning from users.  
+To show drawings and screenshots of: design ideas, completed designs, and snapshots of the running service.
 
-Include notes of purpose, who seen, what learnt, what changed.
+Include notes of design intention, user needs, user feedback, changes made in response to insights.
 
-[https://andyporter.github.io/new-build-design-thoughts/](https://andyporter.github.io/new-build-design-thoughts/)
+[https://andyporter.github.io/develop-service-history/](https://andyporter.github.io/develop-service-history/)
 
 
 
